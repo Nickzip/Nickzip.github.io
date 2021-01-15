@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>javascript on Nick&#39;s blog</title>
+		<link>http://Nickzip.github.io/tags/javascript/</link>
+		<description>Recent content in javascript on Nickzip.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://Nickzip.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>JS30學習筆記</title>
+			<link>http://Nickzip.github.io/post/js30/</link>
+			<pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/js30/</guid>
+			<description>
+				
+				記錄練習JS30的過程與心得
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

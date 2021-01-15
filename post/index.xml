@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Nick&#39;s blog</title>
+		<link>http://Nickzip.github.io/post/</link>
+		<description>Recent content in Posts on Nickzip.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://Nickzip.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>JS30學習筆記</title>
+			<link>http://Nickzip.github.io/post/js30/</link>
+			<pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/js30/</guid>
+			<description>
+				
+				記錄練習JS30的過程與心得
+				
+			</description>
+		</item>
+		<item>
+			<title>Markdown基本語法</title>
+			<link>http://Nickzip.github.io/post/markdown-tutorial/</link>
+			<pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/markdown-tutorial/</guid>
+			<description>
+				
+				md基本功
+				
+			</description>
+		</item>
+		<item>
+			<title>Rich Content</title>
+			<link>http://Nickzip.github.io/post/rich-content/</link>
+			<pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/rich-content/</guid>
+			<description>
+				
+				A brief description of Hugo Shortcodes
+				
+			</description>
+		</item>
+		<item>
+			<title>Markdown Syntax Guide</title>
+			<link>http://Nickzip.github.io/post/markdown-syntax/</link>
+			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/markdown-syntax/</guid>
+			<description>
+				
+				Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+				
+			</description>
+		</item>
+		<item>
+			<title>Placeholder Text</title>
+			<link>http://Nickzip.github.io/post/placeholder-text/</link>
+			<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/placeholder-text/</guid>
+			<description>
+				
+				Lorem Ipsum Dolor Si Amet
+				
+			</description>
+		</item>
+		<item>
+			<title>Math Typesetting</title>
+			<link>http://Nickzip.github.io/post/math-typesetting/</link>
+			<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/math-typesetting/</guid>
+			<description>
+				
+				A brief guide to setup KaTeX
+				
+			</description>
+		</item>
+		<item>
+			<title>Emoji Support</title>
+			<link>http://Nickzip.github.io/post/emoji-support/</link>
+			<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/emoji-support/</guid>
+			<description>
+				
+				Guide to emoji usage in Hugo
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
