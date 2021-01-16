@@ -6,19 +6,19 @@
 		<description>Recent content in js30 on Nickzip.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en</language>
-		<lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="http://Nickzip.github.io/series/js30/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>JS30學習筆記</title>
+			<title>JS學習筆記-1</title>
 			<link>http://Nickzip.github.io/post/js30/</link>
-			<pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+			<pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
 			
 			<guid>http://Nickzip.github.io/post/js30/</guid>
 			<description>
 				
-				記錄練習JS30的過程與心得
+				var let const的差異
 				
 			</description>
 		</item>
