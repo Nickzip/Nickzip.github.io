@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>學習資源 on Nick&#39;s blog</title>
+		<link>http://Nickzip.github.io/tags/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</link>
+		<description>Recent content in 學習資源 on Nickzip.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://Nickzip.github.io/tags/%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>學習參考資源(git)</title>
+			<link>http://Nickzip.github.io/post/note/</link>
+			<pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/note/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

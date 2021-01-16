@@ -23,74 +23,14 @@
 			</description>
 		</item>
 		<item>
-			<title>Markdown 基本語法</title>
-			<link>http://Nickzip.github.io/post/markdown-tutorial/</link>
+			<title>學習參考資源(git)</title>
+			<link>http://Nickzip.github.io/post/note/</link>
 			<pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
 			
-			<guid>http://Nickzip.github.io/post/markdown-tutorial/</guid>
+			<guid>http://Nickzip.github.io/post/note/</guid>
 			<description>
 				
-				md 基本功
 				
-			</description>
-		</item>
-		<item>
-			<title>Rich Content</title>
-			<link>http://Nickzip.github.io/post/rich-content/</link>
-			<pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-			
-			<guid>http://Nickzip.github.io/post/rich-content/</guid>
-			<description>
-				
-				A brief description of Hugo Shortcodes
-				
-			</description>
-		</item>
-		<item>
-			<title>Markdown Syntax Guide</title>
-			<link>http://Nickzip.github.io/post/markdown-syntax/</link>
-			<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://Nickzip.github.io/post/markdown-syntax/</guid>
-			<description>
-				
-				Sample article showcasing basic Markdown syntax and formatting for HTML elements.
-				
-			</description>
-		</item>
-		<item>
-			<title>Placeholder Text</title>
-			<link>http://Nickzip.github.io/post/placeholder-text/</link>
-			<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://Nickzip.github.io/post/placeholder-text/</guid>
-			<description>
-				
-				Lorem Ipsum Dolor Si Amet
-				
-			</description>
-		</item>
-		<item>
-			<title>Math Typesetting</title>
-			<link>http://Nickzip.github.io/post/math-typesetting/</link>
-			<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://Nickzip.github.io/post/math-typesetting/</guid>
-			<description>
-				
-				A brief guide to setup KaTeX
-				
-			</description>
-		</item>
-		<item>
-			<title>Emoji Support</title>
-			<link>http://Nickzip.github.io/post/emoji-support/</link>
-			<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://Nickzip.github.io/post/emoji-support/</guid>
-			<description>
-				
-				Guide to emoji usage in Hugo
 				
 			</description>
 		</item>
