@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>web on Nick&#39;s blog</title>
+		<link>http://Nickzip.github.io/categories/web/</link>
+		<description>Recent content in web on Nickzip.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en</language>
+		<lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://Nickzip.github.io/categories/web/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>web design</title>
+			<link>http://Nickzip.github.io/post/web-design/</link>
+			<pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/web-design/</guid>
+			<description>
+				
+				相關參考資料
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

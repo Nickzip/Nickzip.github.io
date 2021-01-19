@@ -6,12 +6,24 @@
 		<description>Recent content in javascript on Nickzip.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en</language>
-		<lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 17 Jan 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="http://Nickzip.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>JS學習筆記-01</title>
+			<title>JS筆記-02</title>
+			<link>http://Nickzip.github.io/post/javascript-02/</link>
+			<pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+			
+			<guid>http://Nickzip.github.io/post/javascript-02/</guid>
+			<description>
+				
+				DOM
+				
+			</description>
+		</item>
+		<item>
+			<title>JS筆記-01</title>
 			<link>http://Nickzip.github.io/post/javascript-01/</link>
 			<pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
 			
